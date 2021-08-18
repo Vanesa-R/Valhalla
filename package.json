@@ -1,0 +1,35 @@
+{
+	"name": "valhalla-theme",
+	"displayName": "Valhalla Theme",
+	"description": "Dark theme with valhalla color.",
+	"version": "1.0.0",
+	"icon": "images/icon.png",
+	"publisher": "Uve",
+	"author": {
+		"name": "Vanesa Rodríguez",
+		"url": "https://github.com/Vanesa-R"
+	},
+	"repository": {
+		"url": "https://github.com/Vanesa-R/Valhalla"
+	},
+	"engines": {
+		"vscode": "^1.59.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Valhalla Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Valhalla Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1f139fa4-493c-4ae7-a2cb-082e0fa09ac2",
+		"publisherDisplayName": "Uve",
+		"publisherId": "2d50f439-1668-4994-b1d6-46d097b7630b"
+	}
+}
