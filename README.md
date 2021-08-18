@@ -1,9 +1,9 @@
 # Valhalla Theme
 ### Dark Theme HTML
-![Screenshot HTML](images/code-html.png)
+![Screenshot HTML](./images/code-html.png)
 
 ### Dark Theme CSS
-![Screenshot CSS](images/code-css.png)
+![Screenshot CSS](./images/code-css.png)
 
 ### Dark Theme JavaScript
-![Screenshot Js](images/code-js.png)
+![Screenshot Js](./images/code-js.png)
