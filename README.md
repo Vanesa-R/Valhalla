@@ -6,4 +6,4 @@
 ![Screenshot CSS](images/code-css.png)
 
 ### Dark Theme JavaScript
-![Screenshot Js](images/code-JS.png)
+![Screenshot Js](images/code-js.png)
