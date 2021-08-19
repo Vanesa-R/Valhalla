@@ -5,13 +5,13 @@
 		
 		/* Window*/
 		"window.activeBorder": "#01A894",
-		"foreground": "#FDFDFC",
+		"foreground": "#dde1d8",
 		"focusBorder": "#01A894",
 		"selection.background": "#55586B",
 
 		/* Text*/
 		"textBlockQuote.background": "#55586B",
-		"textBlockQuote.border": "#2B2E46",
+		"textBlockQuote.border": "#49bbf7",
 		"textCodeBlock.background": "#55586B",
 		"textLink.foreground": "#49bbf7",
 		"textLink.activeForeground": "#01A894",
@@ -23,20 +23,20 @@
 
 		/* Button control */
 		"button.background": "#2B2E46",
-		"button.foreground": "#FDFDFC",
+		"button.foreground": "#dde1d8",
 		"button.border": "#01A894",
 		"button.hoverBackground": "#55586B",
 
 		/* Dropdown Control*/
 		"dropdown.background": "#2B2E46",
-		"dropdown.foreground": "#FDFDFC",
+		"dropdown.foreground": "#dde1d8",
 		"dropdown.listBackground": "#2B2E46",
 		
 		/* Input Control*/
-		"input.background": "#2B2E46",
-		"input.foreground": "#FDFDFC",
+		"input.background": "#55586B",
+		"input.foreground": "#dde1d8",
 		"input.border": "#01A894",
-		"input.placeholderForeground": "#FDFDFC",
+		"input.placeholderForeground": "#dde1d8",
 		"inputOption.activeBackground": "#2B2E46",
 		"inputOption.activeBorder": "#01A894",
 		"quickInput.background": "#2B2E46",
@@ -47,52 +47,59 @@
 		
 		/* Badge*/
 		"badge.background": "#2b2e46",
-		"badge.foreground": "#FDFDFC",
+		"badge.foreground": "#dde1d8",
 
 		/* Activity Bar*/
-		"activityBar.background": "#2B2E46",
-		"activityBar.foreground": "#FDFDFC",
+		"activityBar.background": "#2b2e46",
+		"activityBar.foreground": "#dde1d8",
 		"activityBar.border": "#01A894",
 		"activityBarBadge.background": "#01A894",
-		"activityBarBadge.foreground": "#FDFDFC",
-		"statusBar.foreground": "#FDFDFC",
+		"activityBarBadge.foreground": "#dde1d8",
+		"statusBar.foreground": "#dde1d8",
+		"activityBar.activeBorder": "#01A894",
 		"titleBar.activeBackground": "#2B2E46",
 
 		/* Side bar*/
 		"sideBar.background": "#2B2E46",
-		"sideBar.foreground": "#FDFDFC",
+		"sideBar.foreground": "#dde1d8",
 		"sideBar.border": "#01A894",
 		"sideBarSectionHeader.background" : "#2B2E46",
-		"sideBarSectionHeader.foreground": "#FDFDFC",
-		"sideBarTitle.foreground": "#FDFDFC",
+		"sideBarSectionHeader.foreground": "#dde1d8",
+		"sideBarTitle.foreground": "#dde1d8",
 
 		/* Status bar*/
 		"statusBar.background": "#01A894",
 
 		/* Editor*/
 		"editor.background": "#2B2E46",
-		"editor.foreground": "#FDFDFC",
-		"editorInfo.foreground": "#FDFDFC",
+		"editor.foreground": "#dde1d8",
+		"editorInfo.foreground": "#dde1d8",
 		"editorGroupHeader.tabsBackground": "#2B2E46",
 		"editorIndentGuide.activeBackground": "#01A894",
 		"editorInlayHint.background": "#55586B",
-		"editorInlayHint.foreground": "#FDFDFC",
+		"editorInlayHint.foreground": "#dde1d8",
 		"editorWidget.background": "#2B2E46",
 		"editorWidget.border": "#01A894",
-		"tab.activeForeground": "#FDFDFC",
-		"tab.inactiveForeground": "#FDFDFC",
+		"editor.findMatchBackground": "#49baf77e",
+		"editor.findMatchHighlightBackground": "#f1ff8985",
+		"editor.selectionBackground": "#01a89583",
+		"tab.activeBackground": "#55586B",
+		"tab.activeForeground": "#dde1d8",
 		"tab.inactiveBackground": "#2B2E46",
+		"tab.inactiveForeground": "#dde1d8",
+		"tab.border": "#55586B",
 		
 		/* List*/		
 		"list.activeSelectionBackground": "#55586B",
-		"list.activeSelectionForeground": "#FDFDFC",
+		"list.activeSelectionForeground": "#dde1d8",
 		"list.hoverBackground": "#55586B",
-		"list.hoverForeground": "#FDFDFC",
+		"list.hoverForeground": "#dde1d8",
 		"list.inactiveSelectionBackground": "#2B2E46",
-		"list.inactiveSelectionForeground": "#FDFDFC",
+		"list.inactiveSelectionForeground": "#dde1d8",
 
 		/* Terminal */
 		"panel.border": "#01A894",
+		"progressBar.background": "#01A894"
 		
 	},
 	
@@ -531,7 +538,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#FDFDFC"
+				"foreground": "#dde1d8"
 			}
 		},
 		{
@@ -689,7 +696,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#FDFDFC"
+				"foreground": "#dde1d8"
 			}
 		},
 		{
@@ -717,7 +724,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#FDFDFC"
+				"foreground": "#F6F6F6"
 			}
 		}
 	]
