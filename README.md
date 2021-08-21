@@ -39,7 +39,6 @@ Puedes ayudarme con este proyecto de varias formas:
 - Si quieres unirte a mí para mejorar este proyecto, no dudes en preguntar.
 
 
-## *License*
-## Licencia
+## *License* - Licencia
 
 [MIT License](https://github.com/Vanesa-R/Valhalla/blob/master/LICENSE.md)
