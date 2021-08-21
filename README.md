@@ -1,9 +1,8 @@
 # Valhalla Theme
-## *Palette inspired by valhalla color*
-## Paleta inspirada en el color valhalla
+## *Palette inspired by valhalla color* - Paleta inspirada en el color valhalla
+
 ![Colours](./images/valhalla-harmonies-shades-tins.png)
-## *Screenshots*
-## Capturas de pantalla
+## *Screenshots* - Capturas de pantalla
 ### Dark Theme HTML
 ![Screenshot HTML](./images/code-html.png)
 
