@@ -1,6 +1,6 @@
 # Change Log
 
-##[v1.2.0] 20.08.2021
+## [v1.2.0] 20.08.2021
 - Updated colours
 - Updated screenshots with new colours
 ## [v1.1.0] 19.08.2021
