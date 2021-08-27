@@ -1,5 +1,9 @@
 # Change Log
 
+## [v1.3.0] 27.08.2021
+- Updated Git colors
+- Updated editor
+
 ## [v1.2.0] 20.08.2021
 - Updated colours
 - Updated screenshots with new colours

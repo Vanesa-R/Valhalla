@@ -81,6 +81,10 @@
 		"editor.findMatchBackground": "#49baf77e",
 		"editor.findMatchHighlightBackground": "#f1ff8985",
 		"editor.selectionBackground": "#01a89583",
+		"editorGutter.modifiedBackground": "#49bbf7",
+		"editorGutter.addedBackground": "#01A894",
+		"editorGutter.deletedBackground": "#f07178",
+
 
 		/* Tabs*/
 		"tab.activeForeground": "#dde1d8",
@@ -99,8 +103,13 @@
 
 		/* Terminal */
 		"panel.border": "#01A894",
-		"progressBar.background": "#01A894"
-		
+		"progressBar.background": "#01A894",
+
+		/* Git*/
+		"gitDecoration.addedResourceForeground": "#01A894",
+		"gitDecoration.modifiedResourceForeground": "#49bbf7",
+		"gitDecoration.renamedResourceForeground": "#49bbf7",
+		"gitDecoration.deletedResourceForeground": "#f07178",
 	},
 	
 	"tokenColors": [
@@ -185,6 +194,7 @@
 				"markup.inserted",
 				"markup.raw.block",
 				"markup.changed",
+				"markup.italic",
 				"keyword",
 				"storage.type",
 				"storage.modifier",
@@ -292,7 +302,8 @@
 				"variable.function",
 				"keyword.other.special-method",
 				"markup.quote",
-				"variable.language"
+				"variable.language",
+				"markup.italic"
 
 			],
 			"settings": {
@@ -321,16 +332,7 @@
 				"foreground": "#C3E88D"
 			}
 		},
-		{
-			"name": "Markup - Italic",
-			"scope": [
-				"markup.italic"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#f07178"
-			}
-		},
+		
 		
 		{
 			"name": "Markup - Bold-Italic",
